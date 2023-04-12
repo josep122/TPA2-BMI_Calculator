@@ -263,7 +263,7 @@ button.resetData:hover {
   align-items: center;
 }
 
-/* The Modal (background) */
+/* Modal (background) */
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
@@ -306,7 +306,7 @@ button.resetData:hover {
   border: 2px solid green;
 }
 
-/* The Close Button */
+/* Close Button */
 .close {
   color: #aaaaaa;
   float: right;
